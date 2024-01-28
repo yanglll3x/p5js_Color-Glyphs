@@ -2,6 +2,8 @@
 
 ### Color Glyphs
 
+#### Please press Arrow Key to Control.
+
 [Final]
 
 This is my final showcase. I make the "zzz" emoji be my cover because it really cute.
